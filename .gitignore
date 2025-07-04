@@ -1,0 +1,4 @@
+#ignore the images
+accessibility_results_*.png
+#ignore the access folder
+access/
